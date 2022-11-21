@@ -1,0 +1,15 @@
+M:\C# C3b\Cviceni2111\Cviceni2111\bin\Debug\net6.0\Cviceni2111.exe
+M:\C# C3b\Cviceni2111\Cviceni2111\bin\Debug\net6.0\Cviceni2111.deps.json
+M:\C# C3b\Cviceni2111\Cviceni2111\bin\Debug\net6.0\Cviceni2111.runtimeconfig.json
+M:\C# C3b\Cviceni2111\Cviceni2111\bin\Debug\net6.0\Cviceni2111.dll
+M:\C# C3b\Cviceni2111\Cviceni2111\bin\Debug\net6.0\Cviceni2111.pdb
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.csproj.AssemblyReference.cache
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.AssemblyInfoInputs.cache
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.AssemblyInfo.cs
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.csproj.CoreCompileInputs.cache
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.dll
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\refint\Cviceni2111.dll
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.pdb
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\Cviceni2111.genruntimeconfig.cache
+M:\C# C3b\Cviceni2111\Cviceni2111\obj\Debug\net6.0\ref\Cviceni2111.dll
